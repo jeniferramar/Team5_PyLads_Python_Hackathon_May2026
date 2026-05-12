@@ -2,6 +2,7 @@
 Healthcare analytics and Python hackathon by Team PyLads
 
 **Description about the dataset** 
+
 This project uses the HUPA-UCM Diabetes Dataset, a multimodal healthcare dataset containing real-world data collected from patients with Type 1 Diabetes using CGM devices, insulin pumps, and wearable fitness trackers.
 
 The dataset includes:
